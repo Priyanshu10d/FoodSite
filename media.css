@@ -1,0 +1,75 @@
+@media only screen and (min-width:200px) and (max-width:567px){
+    .Oriental{
+        background-color: rgb(50, 47, 47) !important;
+    }
+    .grill{
+        background-color: rgb(50, 47, 47) !important;
+    }
+    .grillimg img{
+        width: 70%;
+    }
+    .LenoraMain h3{
+        font-size: 20px;
+    }
+    .LenoraMain h1{
+        font-size: 40px;
+    }
+    .headorient{
+        font-size: 60px;
+    }
+    .headst{
+        font-size: 60px;
+    }
+    .head2{
+        font-size: 60px;
+    }
+    .maininner{
+        font-size: 68px;
+    }
+    .grillcont h1{
+        font-size: 65px;
+    }
+    .submain h1{
+        font-size: 55px;
+    }
+    .img4{
+        display: none;
+    }
+}
+@media only screen and (min-width:568px) and (max-width:1199px){
+    .Oriental{
+        background-color: rgb(50, 47, 47) !important;
+    }
+    .grill{
+        background-color: rgb(50, 47, 47) !important;
+
+    }
+    .grillimg img{
+        width: 70%;
+    }
+    .LenoraMain h3{
+        font-size: 25px;
+    }
+    .LenoraMain h1{
+        font-size: 45px;
+    }
+    .headorient{
+        font-size: 60px;
+    }
+    .headst{
+        font-size: 60px;
+    }
+    .head2{
+        font-size: 60px;
+    }
+    .maininner{
+        font-size: 68px;
+    }
+    .grillcont h1{
+        font-size: 65px;
+    }
+    .submain h1{
+        font-size: 60px;
+    }
+
+}
